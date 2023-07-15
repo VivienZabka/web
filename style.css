@@ -140,3 +140,19 @@ h2 {
   font-family: "Arial Black", sans-serif;
   color: #500327;
 }
+/* Media Queries for Mobile */
+@media only screen and (max-width: 767px) {
+  #hero {
+    padding: 100px 0;
+  }
+
+  #about,
+  #services,
+  #contact {
+    padding: 40px 0;
+  }
+
+  #services li {
+    width: 100%;
+  }
+}
