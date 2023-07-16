@@ -156,3 +156,13 @@ h2 {
     width: 100%;
   }
 }
+.description {
+  display: block;
+  padding: 100px;
+  text-align: center;
+}
+span {
+  padding 100px auto;
+  display: block;
+  margin-left: 200px;
+}
